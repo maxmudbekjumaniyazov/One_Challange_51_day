@@ -1,0 +1,23 @@
+* { 
+    margin: auto;
+    padding: 0px;
+    box-sizing: border-box;
+}
+main { 
+    margin: auto; 
+    width: auto;
+    height: auto;
+}
+.all_img { 
+    display: flex;
+
+}
+.img_a { 
+    margin: 10px;
+    
+}
+.link_a { 
+    width: 250px;
+    height: 750px;
+    border-radius: 20%;
+}
